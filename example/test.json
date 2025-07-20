@@ -17,5 +17,41 @@
             ""
         ]
 
+    },
+    {
+        "question": "What's obamas surname?",
+        "question_image": "",
+        "answers": 
+        {
+            "obama": 1,
+            "barack": 0,
+            "trump": 0,
+            "kamala": 0
+        },
+        "answers_images":
+        [
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "question": "Whats this",
+        "question_image": "apple.webp",
+        "answers": 
+        {
+            "Apple": 1,
+            "Banana": 0,
+            "Kiwi": 0,
+            "Pineapple": 0
+        },
+        "answers_images":
+        [
+            "",
+            "",
+            "",
+            ""
+        ]
     }
 ]
